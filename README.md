@@ -76,10 +76,3 @@
   <img src="https://skillicons.dev/icons?i=git,postman,figma,androidstudio,python,java,c,cpp,cs,unity,matlab" />
 </p>
 
-
----
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alvy00&style=for-the-badge&color=58A6FF" alt="Visitor Counter" />
-</p>
