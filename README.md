@@ -1,7 +1,7 @@
 <!-- ========================= -->
 <!--   GitHub Profile README   -->
 <!-- ========================= -->
-
+[![Header](https://raw.githubusercontent.com/alvy00/alvy00/banner.png "Header")]
 <p align="center">
   <em>
     I’m a <strong>Fullstack Developer</strong> who loves turning complex problems into elegant, scalable web solutions.
