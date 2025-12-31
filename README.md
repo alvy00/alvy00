@@ -75,29 +75,10 @@
 
 ---
 
-## 📊 GitHub Dashboard
-
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=alvy00&show_icons=true&theme=github_dark&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvy00&layout=compact&theme=github_dark&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=alvy00&theme=github-dark&hide_border=true" />
-</p>
-
----
-
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github.com/alvy00/alvy00/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <!-- Alternative trophy gallery -->
