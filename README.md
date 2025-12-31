@@ -78,12 +78,12 @@
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://github.com/alvy00/alvy00/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <img src="https://github.com/alvy00/blob/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 <!-- Alternative trophy gallery -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=alvy00&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
 
 ---
