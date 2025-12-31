@@ -80,16 +80,16 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api?username=alvy00&show_icons=true&theme=github_dark&hide_border=true" />
     </td>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvy00&layout=compact&theme=github_dark&hide_border=true" />
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=alvy00&theme=github-dark&hide_border=true" />
 </p>
 
 ---
