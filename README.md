@@ -17,6 +17,13 @@
 
 ---
 
+## 📊 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&hide_border=true&area=true" />
+</p>
+
+
 ## 🛠️ Tech Stack & Skills
 
 <table width="100%">
