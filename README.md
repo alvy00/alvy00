@@ -52,6 +52,9 @@
   <a href="https://hackerrank.com/alvy00" target="_blank">
     <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="32" />
   </a>
+  <a href="https://codeforces.com/profile/alvy00" target="_blank">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="32" />
+  </a>
 </p>
 
 
