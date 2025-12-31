@@ -11,8 +11,6 @@
   </em>
 </p>
 
----
-
 ## 🚀 Stats
 <div align="center">
   <table width="100%">
@@ -55,8 +53,6 @@
     <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="30"/>
   </a>
 </p>
-
----
 
 
 ## 🛠️ Tech Stack
