@@ -33,26 +33,27 @@
 
 ## 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/alvy00" target="_blank">
-    <img src="https://cdn.simpleicons.org/github/ffffff" height="30"/>
-  </a>
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/alvy00" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30"/>
-  </a>
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://dribbble.com/alvy00" target="_blank">
-    <img src="https://cdn.simpleicons.org/dribbble/EA4C89" height="30"/>
-  </a>
+    <img src="https://cdn.simpleicons.org/dribbble/EA4C89" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/alvy00" target="_blank">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30"/>
-  </a>
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://codechef.com/users/alvy00" target="_blank">
-    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="30"/>
-  </a>
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="32" />
+  </a>&nbsp;&nbsp;
   <a href="https://hackerrank.com/alvy00" target="_blank">
-    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="30"/>
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="32" />
   </a>
 </p>
+
 
 
 ## 🛠️ Tech Stack
