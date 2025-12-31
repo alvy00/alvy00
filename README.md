@@ -33,37 +33,48 @@
 </p>
 
 
-## 🛠️ Tech Stack & Skills
+## 🤝 Connect With Me
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
+<p align="left">
+  <a href="https://github.com/alvy00" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="30"/>
+  </a>
+  <a href="https://linkedin.com/in/alvy00" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="30"/>
+  </a>
+  <a href="https://dribbble.com/alvy00" target="_blank">
+    <img src="https://cdn.simpleicons.org/dribbble/EA4C89" height="30"/>
+  </a>
+  <a href="https://leetcode.com/alvy00" target="_blank">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="30"/>
+  </a>
+  <a href="https://codechef.com/users/alvy00" target="_blank">
+    <img src="https://cdn.simpleicons.org/codechef/5B4638" height="30"/>
+  </a>
+  <a href="https://hackerrank.com/alvy00" target="_blank">
+    <img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="30"/>
+  </a>
+</p>
+
+---
+
+
+## 🛠️ Tech Stack
 
 ### 🎨 Frontend
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0D1117?style=for-the-badge&logo=tailwind-css)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-0D1117?style=for-the-badge&logo=redux)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0D1117?style=for-the-badge&logo=framer)
-
-    </td>
-    <td width="50%" valign="top">
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind,html,css,framer" />
+</p>
 
 ### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express)
-![NestJS](https://img.shields.io/badge/NestJS-0D1117?style=for-the-badge&logo=nestjs)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase" />
+</p>
 
-### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-0D1117?style=for-the-badge&logo=prisma)
-![Drizzle](https://img.shields.io/badge/Drizzle-0D1117?style=for-the-badge&logo=drizzle)
-
-    </td>
-  </tr>
-</table>
+### 🧰 Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,androidstudio,python,java,c,cpp,cs,unity,matlab" />
+</p>
 
 ### 🚀 Tools & DevOps
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
