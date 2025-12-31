@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Live GitHub Stats
+## 🚀 Stats
 <div align="center">
   <table width="100%">
   <tr>
@@ -26,7 +26,7 @@
 
 
 
-## 📊 Contribution Activity
+## 📊 Contributions
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvy00&theme=github-dark&hide_border=true&area=true" />
