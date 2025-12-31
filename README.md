@@ -80,14 +80,6 @@
 ---
 
 
-## 🤝 Work & Contact
-
-- ⚡ **Fun Fact:** I'm a lifelong learner constantly exploring new frameworks.
-- 📫 **Reach me at:** your-email@example.com
-- 💼 **Connect:** https://linkedin.com/in/your-profile
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=58A6FF" alt="Visitor Counter" />
 </p>
