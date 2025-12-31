@@ -17,6 +17,16 @@
 
 ---
 
+## ⏱️ Current Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alvy00&theme=github_dark&hide_border=true" />
+</p>
+
+
 ## 📊 Contribution Activity
 
 <p align="center">
