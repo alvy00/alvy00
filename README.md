@@ -76,13 +76,6 @@
   <img src="https://skillicons.dev/icons?i=git,postman,figma,androidstudio,python,java,c,cpp,cs,unity,matlab" />
 </p>
 
-### 🚀 Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-aws)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
-![Jest](https://img.shields.io/badge/Jest-0D1117?style=for-the-badge&logo=jest)
-![Vercel](https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel)
-![Railway](https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway)
 
 ---
 
