@@ -2,10 +2,6 @@
 <!--   GitHub Profile README   -->
 <!-- ========================= -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+[My+Name]+👋;Fullstack+Developer;Building+Scalable+Web+Apps" alt="Typing SVG" />
-</h1>
-
 <p align="center">
   <em>
     I’m a <strong>Fullstack Developer</strong> who loves turning complex problems into elegant, scalable web solutions.
@@ -21,9 +17,6 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=alvy00&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
-    </td>
     <td width="50%">
       <img src="https://streak-stats.demolab.com?user=alvy00&theme=github-dark&hide_border=true" />
     </td>
