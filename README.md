@@ -14,14 +14,16 @@
 ---
 
 ## 🚀 Live GitHub Stats
-
-<table width="100%">
+<div align="center">
+  <table width="100%">
   <tr>
     <td width="50%">
       <img src="https://streak-stats.demolab.com?user=alvy00&theme=github-dark&hide_border=true" />
     </td>
   </tr>
 </table>
+</div>
+
 
 
 ## 📊 Contribution Activity
