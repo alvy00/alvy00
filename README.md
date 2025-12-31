@@ -17,14 +17,18 @@
 
 ---
 
-## ⏱️ Current Coding Activity
+## 🚀 Live GitHub Stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=alvy00&theme=github_dark&hide_border=true" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=alvy00&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true" />
+    </td>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com?user=alvy00&theme=github-dark&hide_border=true" />
+    </td>
+  </tr>
+</table>
 
 
 ## 📊 Contribution Activity
