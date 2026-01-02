@@ -3,6 +3,8 @@
 <!-- ========================= -->
 <img src="./banner.png" />
 <p align="center">
+  ## 👋 Hi, I'm **Alvi Ahmed**
+### 💻 Frontend Web Developer | Aspiring Full Stack Developer
   <em>
     I’m a <strong>Fullstack Developer</strong> who loves turning complex problems into elegant, scalable web solutions.
     My expertise lies in building high-performance applications with the <strong>T3 / MERN / PERN</strong> stacks,
@@ -10,6 +12,12 @@
     I thrive at the intersection of robust backend logic and pixel-perfect frontend execution.
   </em>
 </p>
+
+## 🚀 Current Activities
+- 🌱 Exploring **Next.js** and modern React patterns  
+- 🏗️ Working on a **tourism website** project  
+- 📚 Improving backend fundamentals and API integration  
+- 🎯 Focusing on writing clean, scalable code
 
 ## 🚀 Stats
 <div align="center">
@@ -76,3 +84,4 @@
   <img src="https://skillicons.dev/icons?i=git,postman,figma,androidstudio,python,java,c,cpp,cs,unity,matlab" />
 </p>
 
+### ⭐ If you like my work, feel free to star my repositories!
