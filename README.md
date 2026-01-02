@@ -3,8 +3,6 @@
 <!-- ========================= -->
 <img src="./banner.png" />
 <p align="center">
-  ## 👋 Hi, I'm **Alvi Ahmed**
-### 💻 Frontend Web Developer | Aspiring Full Stack Developer
   <em>
     I’m a <strong>Fullstack Developer</strong> who loves turning complex problems into elegant, scalable web solutions.
     My expertise lies in building high-performance applications with the <strong>T3 / MERN / PERN</strong> stacks,
