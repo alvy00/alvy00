@@ -1,7 +1,8 @@
 <!-- ========================= -->
 <!--   GitHub Profile README   -->
 <!-- ========================= -->
-<img src="./banner.png" />
+/*<img src="./banner.png" />*/
+![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <p align="center">
   <em>
     I’m a <strong>Fullstack Developer</strong> who loves turning complex problems into elegant, scalable web solutions.
