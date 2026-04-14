@@ -2,7 +2,7 @@
 <!--   GitHub Profile README   -->
 <!-- ========================= -->
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-<h1 align="center">Hi 👋, I'm ALVY AHMED</h1>
+<h1 align="center">Hi 👋, I'm ALVI AHMED</h1>
 <p align="center">
   <em>
     I’m a <strong>Fullstack Developer</strong> who loves turning complex problems into elegant, scalable web solutions.
