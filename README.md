@@ -5,10 +5,7 @@
 <h1 align="center">Hi 👋, I'm ALVI AHMED</h1>
 <p align="center">
   <em>
-    I’m a <strong>Fullstack Developer</strong> who loves turning complex problems into elegant, scalable web solutions.
-    My expertise lies in building high-performance applications with the <strong>T3 / MERN / PERN</strong> stacks,
-    focusing on <strong>type-safety</strong>, <strong>responsive design</strong>, and <strong>seamless user experiences</strong>.
-    I thrive at the intersection of robust backend logic and pixel-perfect frontend execution.
+    I'm a <strong>Full-Stack Developer</strong> with hands-on expertise in the MERN stack. Passionate about writing production-ready code and continuously leveling up — currently diving deep into AI technologies and how they shape the future of web development.
   </em>
 </p>
 
