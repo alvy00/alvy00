@@ -12,10 +12,9 @@
 </p>
 
 ## 🚀 Current Activities
-- 🌱 Exploring **Next.js** and modern React patterns  
-- 🏗️ Working on a **tourism website** project  
-- 📚 Improving backend fundamentals and API integration  
-- 🎯 Focusing on writing clean, scalable code
+- 🌱 Exploring **Next.js** 
+- 🏗️ Working on a **AI Roadmap Generator** project  
+- 📚 Improving backend fundamentals and API integration
 
 ## 🚀 Stats
 <div align="center">
