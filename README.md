@@ -19,7 +19,7 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[async-await Auction Platform](https://github.com/alvy00/asyncawait-auction-project)** | Real-time bidding/auction system | TypeScript |
+| **[AuctaSync](https://github.com/alvy00/asyncawait-auction-project)** | Real-time bidding/auction system | TypeScript |
 | **[CareerPilot](https://github.com/alvy00/eg-careerpilot-asyncawait)** | Turns a learning goal into a structured, personalized roadmap | TypeScript |
 | **[AssetVerse](https://github.com/alvy00/ph-assetverse-client-a11)** | Full-stack asset management platform (client + [server](https://github.com/alvy00/ph-assetverse-server-a11)) | JavaScript, Node.js, MongoDB |
 | **[LangAI](https://github.com/alvy00/LangAI)** | AI assisted language practice platform | TypeScript |
