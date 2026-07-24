@@ -37,21 +37,15 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 <p align="leftr"> <b>Frontend</b><br/> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" /><br/><br/> <b>Backend</b><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase" /><br/><br/> <b>Tools</b><br/> <img src="https://skillicons.dev/icons?i=git,postman,figma,python,java,cpp" /> </p>
 
 
-## 🚀 Stats
-<div align="center">
-  <table width="100%">
-  <tr>
-    <td width="50%">
-      <img src="https://streak-stats.demolab.com?user=alvy00&theme=algolia&hide_border=true" />
-    </td>
-  </tr>
-</table>
-</div>
-
-## 📊 Contributions
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvy00&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alvy00&show_icons=true&theme=algolia&hide_border=true&count_private=true" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=alvy00&theme=algolia&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvy00&theme=github-dark&hide_border=true&area=true" width="98%"/>
 </p>
 
 ## 🌐 Find Me Elsewhere
