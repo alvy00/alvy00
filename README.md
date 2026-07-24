@@ -34,22 +34,28 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 
 ### 🛠️ Tech Stack
 
-<div align="center">
-  <div style="display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <b>Frontend :</b>
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" alt="Frontend Icons" />
-  </div>
-  <br/>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <b>Backend :</b>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase" alt="Backend Icons" />
-  </div>
-  <br/>
-  <div style="display: flex; align-items: center; justify-content: center; gap: 8px;">
-    <b>Tools :</b>
-    <img src="https://skillicons.dev/icons?i=git,postman,figma,python,java,cpp" alt="Tools Icons" />
-  </div>
-</div>
+<p align="center">
+  <H3>🛠️ Tech Stack</H3>
+</p>
+
+<p align="center">
+  <strong>Frontend:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" alt="Frontend Icons" />
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>Backend:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase" alt="Backend Icons" />
+</p>
+
+<br/>
+
+<p align="center">
+  <strong>Tools:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,python,java,cpp" alt="Tools Icons" />
+</p>
 
 ---
 
