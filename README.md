@@ -34,28 +34,7 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 
 ### 🛠️ Tech Stack
 
-<p align="center">
-  <H3>🛠️ Tech Stack</H3>
-</p>
-
-<p align="center">
-  <strong>Frontend:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" alt="Frontend Icons" />
-</p>
-
-<br/>
-
-<p align="center">
-  <strong>Backend:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase" alt="Backend Icons" />
-</p>
-
-<br/>
-
-<p align="center">
-  <strong>Tools:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,postman,figma,python,java,cpp" alt="Tools Icons" />
-</p>
+<p align="center"> <b>Frontend</b><br/> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" /><br/><br/> <b>Backend</b><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase" /><br/><br/> <b>Tools</b><br/> <img src="https://skillicons.dev/icons?i=git,postman,figma,python,java,cpp" /> </p>
 
 ---
 
