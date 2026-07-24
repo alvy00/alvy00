@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://alvyahmed007.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://linkedin.com/in/alvy00" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:alvyahmed03@gmail.com"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 I ship production-ready MERN applications and I'm currently focused on integrating AI into real web products — not just experimenting with it. Below is what I've actually built, not just what I know.
