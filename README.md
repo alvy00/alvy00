@@ -24,6 +24,8 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 | **[AssetVerse](https://github.com/alvy00/ph-assetverse-client-a11)** | Full-stack asset management platform ([client](https://github.com/alvy00/ph-assetverse-server-a11) + [server](https://github.com/alvy00/ph-assetverse-server-a11)) | JavaScript, Node.js, MongoDB |
 | **[LangAI](https://github.com/alvy00/LangAI)** | AI assisted language practice platform | NextJS, TypeScript, AI |
 
+--
+
 ### 🧠 Currently
 
 - Building **AsyncPrompt**, an AI prompt generator
