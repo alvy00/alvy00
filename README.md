@@ -30,6 +30,7 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 - Going deep on **Next.js** and backend architecture/API design
 - Exploring how LLMs slot into real product workflows, not just chat interfaces
 
+---
 
 ### 🛠️ Tech Stack
 
@@ -37,6 +38,7 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 **Backend:** ![](https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase)
 **Tools:** ![](https://skillicons.dev/icons?i=git,postman,figma,python,java,cpp)
 
+---
 
 ## 🚀 Stats
 <div align="center">
