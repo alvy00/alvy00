@@ -20,9 +20,9 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 | Project | What it does | Stack |
 |---|---|---|
 | **[AuctaSync](https://github.com/alvy00/asyncawait-auction-project)** | Real-time bidding/auction system | NextJS, TypeScript, Node.js |
-| **[CareerPilot](https://github.com/alvy00/eg-careerpilot-asyncawait)** | Turns a learning goal into a structured, personalized roadmap | NextJS, TypeScript, Node.js |
+| **[CareerPilot](https://github.com/alvy00/eg-careerpilot-asyncawait)** | Turns a learning goal into a structured, personalized roadmap | NextJS, TypeScript, RAG |
 | **[AssetVerse](https://github.com/alvy00/ph-assetverse-client-a11)** | Full-stack asset management platform ([client](https://github.com/alvy00/ph-assetverse-server-a11) + [server](https://github.com/alvy00/ph-assetverse-server-a11)) | JavaScript, Node.js, MongoDB |
-| **[LangAI](https://github.com/alvy00/LangAI)** | AI assisted language practice platform | NextJS, TypeScript, Node.js |
+| **[LangAI](https://github.com/alvy00/LangAI)** | AI assisted language practice platform | NextJS, TypeScript, AI |
 
 ### 🧠 Currently
 
