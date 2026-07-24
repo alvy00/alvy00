@@ -23,8 +23,7 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 | **[CareerPilot](https://github.com/alvy00/eg-careerpilot-asyncawait)** | Turns a learning goal into a structured, personalized roadmap | NextJS, TypeScript, RAG |
 | **[AssetVerse](https://github.com/alvy00/ph-assetverse-client-a11)** | Full-stack asset management platform ([client](https://github.com/alvy00/ph-assetverse-server-a11) + [server](https://github.com/alvy00/ph-assetverse-server-a11)) | JavaScript, Node.js, MongoDB |
 | **[LangAI](https://github.com/alvy00/LangAI)** | AI assisted language practice platform | NextJS, TypeScript, AI |
-
------
+---
 
 ### 🧠 Currently
 
@@ -38,7 +37,7 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 
 <p align="leftr"> <b>Frontend</b><br/> <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" /><br/><br/> <b>Backend</b><br/> <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase" /><br/><br/> <b>Tools</b><br/> <img src="https://skillicons.dev/icons?i=git,postman,figma,python,java,cpp" /> </p>
 
-
+---
 ### 📊 GitHub Activity
 
 <p align="center">
@@ -49,9 +48,9 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alvy00&theme=github-dark&hide_border=true&area=true" width="98%"/>
 </p>
-
+---
 ### 🌐 Find Me Elsewhere
 <p align="left"> <a href="https://leetcode.com/alvy00"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="28" /></a>&nbsp;&nbsp; <a href="https://codeforces.com/profile/alvy00"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="28" /></a>&nbsp;&nbsp; <a href="https://codechef.com/users/alvy00"><img src="https://cdn.simpleicons.org/codechef/5B4638" height="28" /></a>&nbsp;&nbsp; <a href="https://hackerrank.com/alvy00"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="28" /></a>&nbsp;&nbsp; <a href="https://dribbble.com/alvy00"><img src="https://cdn.simpleicons.org/dribbble/EA4C89" height="28" /></a> </p>
 
-
+---
 ##### ⭐ If you like my work, feel free to star my repositories!
