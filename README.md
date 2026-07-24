@@ -52,4 +52,4 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 <p align="left"> <a href="https://leetcode.com/alvy00"><img src="https://cdn.simpleicons.org/leetcode/FFA116" height="28" /></a>&nbsp;&nbsp; <a href="https://codeforces.com/profile/alvy00"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="28" /></a>&nbsp;&nbsp; <a href="https://codechef.com/users/alvy00"><img src="https://cdn.simpleicons.org/codechef/5B4638" height="28" /></a>&nbsp;&nbsp; <a href="https://hackerrank.com/alvy00"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" height="28" /></a>&nbsp;&nbsp; <a href="https://dribbble.com/alvy00"><img src="https://cdn.simpleicons.org/dribbble/EA4C89" height="28" /></a> </p>
 
 
-# ⭐ If you like my work, feel free to star my repositories!
+##### ⭐ If you like my work, feel free to star my repositories!
