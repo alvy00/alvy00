@@ -35,19 +35,19 @@ I ship production-ready MERN applications and I'm currently focused on integrati
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <div>
-    <b>Frontend</b> :
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" />
+  <div className="flex items-center justify-center gap-2">
+    <b>Frontend :</b>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,redux,tailwind" alt="Frontend Icons" />
   </div>
   <br/>
-  <div>
-    <b>Backend</b> :
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase" />
+  <div className="flex items-center justify-center gap-2">
+    <b>Backend :</b>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,postgres,firebase" alt="Backend Icons" />
   </div>
   <br/>
-  <div>
-    <b>Tools</b> :
-    <img src="https://skillicons.dev/icons?i=git,postman,figma,python,java,cpp" />
+  <div className="flex items-center justify-center gap-2">
+    <b>Tools :</b>
+    <img src="https://skillicons.dev/icons?i=git,postman,figma,python,java,cpp" alt="Tools Icons" />
   </div>
 </div>
 
